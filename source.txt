@@ -1,0 +1,2 @@
+Hello from the source file.
+This content will be copied using Node.js streams.

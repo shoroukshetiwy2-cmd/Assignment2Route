@@ -1,0 +1,1 @@
+This is some data that will be compressed using Node.js streams and zlib.
